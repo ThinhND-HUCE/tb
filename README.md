@@ -11,4 +11,5 @@
 | Nguyễn Thị	Toàn | 3-4h |
 | Lê Thị Thùy	Trang | 8-9h |
 
+**Lưu ý:** sinh viên đến đúng giờ
 
