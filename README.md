@@ -1,8 +1,13 @@
 # Thông báo
-## Lịch thi lớp DQT kỳ 2 2022-2023
-### 1. DQT54 Toán học tính toán
-    * Thời gian: 9h30-11h00 thứ 4 ngày 12/4
-    * Địa điểm: Bộ môn Toán ứng dụng, P409 nhà A1
-### 2. DQT53 Toán rời rạc
-    * Thời gian: 13h00-14h30 thứ 5 ngày 13/4
-    * Địa điểm: Bộ môn Toán ứng dụng, P409 nhà A1
+## Lịch phản biện
+* **Ngày:** 20/9/2023
+* **Địa điểm:** Bộ môn Toán ứng dụng, P409.A1
+| Họ tên | Giờ |
+|-|-|
+| Nguyễn Ngọc	Long| 16-17h |
+| Lê Tiến	Phượng | 11h-12h |
+| Nguyễn Đình	Tiến | 10-11h |
+| Nguyễn Thị	Toàn | 3-4h |
+| Lê Thị Thùy	Trang | 8-9h |
+
+
