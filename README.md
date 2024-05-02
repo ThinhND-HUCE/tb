@@ -1,15 +1,13 @@
 # Thông báo
 ## Lịch phản biện
-* **Ngày:** 20/9/2023
+* **Ngày:** 03 / 05 / 2024
 * **Địa điểm:** Bộ môn Toán ứng dụng, P409.A1
 
 | Họ tên | Giờ |
 |:-:|:-:|
-| Nguyễn Ngọc	Long| 16-17h |
-| Lê Tiến	Phượng | 11h-12h |
-| Nguyễn Đình	Tiến | 10-11h |
-| Nguyễn Thị	Toàn | 15-16h |
-| Lê Thị Thùy	Trang | 8-9h |
+| Nguyễn Ngọc	Long| 13h-14h |
+| Lê Tiến	Phượng | 14h-15h |
+| Nguyễn Đình	Tiến | 15-16h |
 
 **Lưu ý:** sinh viên đến đúng giờ
 
