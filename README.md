@@ -5,9 +5,9 @@
 
 | Họ tên | Giờ |
 |:-:|:-:|
-| Nguyễn Ngọc	Long| 13h-14h |
-| Lê Tiến	Phượng | 14h-15h |
-| Nguyễn Đình	Tiến | 15-16h |
+| Nguyễn Trung Hiệp | 13h-14h |
+| Nguyễn Hải Linh | 14h-15h |
+| Nguyễn Hồng Linh | 15-16h |
 
 **Lưu ý:** sinh viên đến đúng giờ
 
