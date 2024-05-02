@@ -1,6 +1,6 @@
 # Thông báo
 ## Lịch phản biện
-* **Ngày:** 03 / 05 / 2024
+* **Ngày:** 03 / 05 / 2024 (thứ 6)
 * **Địa điểm:** Bộ môn Toán ứng dụng, P409.A1
 
 | Họ tên | Giờ |
