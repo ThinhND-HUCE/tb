@@ -4,7 +4,7 @@
 * **Địa điểm:** Bộ môn Toán ứng dụng, P409.A1
 
 | Họ tên | Giờ |
-|:-:|:-:|
+|:-|:-|
 | Nguyễn Trung Hiệp | 13h-14h |
 | Nguyễn Hải Linh | 14h-15h |
 | Phạm Hồng Linh | 15-16h |
